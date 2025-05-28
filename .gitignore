@@ -1,0 +1,12 @@
+# Ignore HTML files
+*.html
+
+# Ignore output text files
+output*.txt
+
+# Ignore JetBrains IDE configuration files
+.idea/
+
+# Ignore virtual environment directory
+venv/
+__pycache__/
